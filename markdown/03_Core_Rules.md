@@ -1,4 +1,4 @@
-#The Intense RPG
+#Chapter 3: Core Rules
 
 ##How it Works
 A role playing game is about making up an adventure story with your friends. One person in your group runs the game, and they are called the Story Teller.  Everyone else has a hero in the Story Teller's story, and they are called Players.  Players can control what their hero's want to do, but the Story Teller is always the final word in what actually happens.  For example, a hero might want to draw a square circle but they're not able. One normal six sided die is required to play. These rules are based on a fantasy medieval setting but can easily be adapted to other kinds of stories.

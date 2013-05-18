@@ -1,4 +1,4 @@
-#Scary Things
+#Chapter 6: Scary Things
 
 The Story Teller can create any kind of creature they can imagine, but here are a few to help you to get started.
 

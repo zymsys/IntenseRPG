@@ -1,4 +1,4 @@
-#Skills
+#Chapter 4: Skills
 
 ##Duh Skills
 Every hero can do these things.  Duh.

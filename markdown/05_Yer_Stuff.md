@@ -1,4 +1,4 @@
-#Intense RPG: Yer Stuff
+#Chapter 5: Yer Stuff
 
 The numbers in these lists are the standard price in coins for the item.
 

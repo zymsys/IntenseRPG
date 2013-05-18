@@ -1,4 +1,4 @@
-#Intense RPG: Story Teller’s Notes
+#Chapter 2: Story Teller’s Notes
 Being the Story Teller is a tough job. It requires a lot of imagination and quick thinking. Remember that your task is to challenge the players and help them to work together to have fun. You have all the power in the game - what you say goes, even if it goes against the rules as they are written.
 
 The most important advice given to players is to develop the habit of saying “Yes” to ideas and then build on them. The same advice goes for Story Tellers. When a player asks you if they can do something, try to find a way to say “Of course you can” or “That’s brilliant! Go for it!”
