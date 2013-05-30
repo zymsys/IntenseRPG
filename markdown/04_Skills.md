@@ -49,7 +49,9 @@ Your Hero can move silently and hide in shadows. Your Story Teller will assign a
 Your Hero makes the impossible look easy. One point bonus against difficulty for Extreme Maneuvers.
 
 ###Telepathy
-Your Hero was born with the ability to send their speech into other people’s heads without actually speaking. This doesn’t allow them to read minds. In this kind of game, sometimes the Heroes are out of each other’s earshot, but players forget this and act as though they could hear what was going on. The purpose of this skill is really to make it ok for Heroes with the skill to communicate as freely as the players can. Your Story Teller may choose to give all the Heroes this skill as a bonus for convenience.
+Your Hero was born with the ability to send their speech into other people’s heads without actually speaking. The Here needs to know exactly where the person is, and this doesn’t allow them to read minds. 
+
+In this kind of game, sometimes the Heroes are out of each other’s earshot, but players forget this and act as though they could hear what was going on. The purpose of this skill is really to make it ok for Heroes with the skill to communicate as freely as the players can. Your Story Teller may choose to give all the Heroes this skill as a bonus for convenience.
 
 ##Intense Skills
 These use up intensity points; choose 2 for your Hero
